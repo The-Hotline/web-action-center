@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+    <url>
+        <loc>https://www.thehotlineactioncenter.org/</loc>
+        <lastmod>2025-07-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+
+        <image:image>
+            <image:loc>https://www.thehotlineactioncenter.org/img/about-national-domestic-violence-hotline.jpg</image:loc>
+            <image:title>About the National Domestic Violence Hotline</image:title>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://www.thehotlineactioncenter.org/img/support-crime-victims-fund.jpg</image:loc>
+            <image:title>Support the Crime Victims Fund</image:title>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://www.thehotlineactioncenter.org/img/support-policy-and-legislation-change.jpg</image:loc>
+            <image:title>Policy and Legislative Change</image:title>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://www.thehotlineactioncenter.org/img/support-reproductive-healthcare.jpg</image:loc>
+            <image:title>Support Reproductive Healthcare</image:title>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://www.thehotlineactioncenter.org/img/support-survivors.jpg</image:loc>
+            <image:title>Support Survivors</image:title>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://www.thehotlineactioncenter.org/img/support-workplace-protections.jpg</image:loc>
+            <image:title>Support Workplace Protections</image:title>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://www.thehotlineactioncenter.org/img/take-action-contact-lawmakers.jpg</image:loc>
+            <image:title>Take Action - Contact Lawmakers</image:title>
+        </image:image>
+    </url>
+
+</urlset>
